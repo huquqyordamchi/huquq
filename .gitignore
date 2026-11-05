@@ -1,0 +1,14 @@
+.env
+*.env
+!.env.example
+__pycache__/
+*.pyc
+node_modules/
+.netlify/
+.netlify
+law-update-report.md
+tests/out/
+.claude/
+*.zip
+
+.work-v119/
